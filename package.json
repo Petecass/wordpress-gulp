@@ -1,0 +1,48 @@
+{
+  "name": "flint",
+  "version": "1.0.0",
+  "description": "Starter pack for simple sites",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petecass/flint.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.9.6",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-bower": "0.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-csso": "^1.0.0",
+    "gulp-filter": "^3.0.1",
+    "gulp-gh-pages": "^0.5.2",
+    "gulp-if": "^1.2.5",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-main-bower-files": "^1.2.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-ruby-sass": "^2.0.3",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-template": "^3.0.0",
+    "gulp-uglify": "^1.4.1",
+    "gulp-useref": "^1.3.0",
+    "gulp-watch": "^4.3.5",
+    "main-bower-files": "^2.9.0",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.1.4",
+    "stream-series": "^0.1.1",
+    "uglify": "^0.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
